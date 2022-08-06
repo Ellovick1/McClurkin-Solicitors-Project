@@ -1,81 +1,3 @@
-/***********************************
-******** TABLE OF CONTENT **********
-************************************
- 1  imported styles 
- 2  Base CSS 
- 3  Section Title
- 4  Breadcrumb area css 
- 5  index.html page css
- 6  Top area CSS 
- 7  Header Area Css
- 8  Slider Area Css
- 9  Slider bottom text 
- 10 Welcome area css
- 11 Featured Services area css
- 12 Case Evaluation area css
- 13 Our Attorneys area css
- 14 ABout Trust area css
- 15 Testimonial Area Css
- 16 Latest News Area Css
- 17 Branding area css
- 18 Legal problem area css 
- 19 Footer widget area css 
- 20 Footer area css 
- 21 index2.html page css
- 22 About.html page css
- 23 mission vision area css 
- 24 Featured service area 2 css 
- 25 Featured services area 3 css 
- 26 Lawyer information area css 
- 27 Attorney-v1.html page css 
- 28 best attorney area css 
- 29 Attorney-v2.html page css
- 30 we have best attorney area title
- 31 we have best attorney area
- 32 we have best attorney area title
- 33 practice-v1.html page css 
- 34 practice v1 tabmenu area css
- 35 practice v1 Tab all content-area css
- 36 practice v1 choose us area css
- 37 practice v1 lawyer info area css
- 38 practice-v2.html page css 
- 39 practice-v3.html page css 
- 40 practice-v4.html page css
- 41 practice-v5.html page css
- 42 blog-left-sidebar.html page css 
- 43 bolg v1 area css
- 44 left sidebar css
- 45 sidebar widget title
- 46 search box  widget 
- 47 practice  widget items 
- 48 category  widget items 
- 49 text  widget 
- 50 Tag cloude  widget 
- 51 meet attorney  widget 
- 52 blog-right-sidebar.html page css 
- 53 blog-v3.html page css 
- 54 blog-v4.html page css 
- 55 blog-details.html page css 
- 56 blog details top text 
- 57 blog details middle text 
- 58 blog details bottom text 
- 59 John Michaila Info 
- 60 Two Colum Text 
- 61 Socila Link  
- 62 Adminostrator Text  
- 63 Comment Part  
- 64 Comment title 
- 65 Meet Attorneys Comment form 
- 66 contact.html page css 
- 67 single-attorney.html page css 
- 68 skill area css
- 69 Leave Comment Area css
- 70 header update styles 
- 71 call to action area styles 
- 72 contact google map styles 
-
-*********************************************
-*********************************************/
 
 /* imported styles */
 
@@ -1539,7 +1461,7 @@ css:
 
 /*End======================================================================index.html page css=======================*/
 
-/*Start=================================================================index2.html page css=========================*/
+/*Start=================================================================index.html page css=========================*/
 
 .top-area-bg-2 {
     background: url(../img/top-bg.jpg-2.jpg);
@@ -1552,7 +1474,7 @@ css:
     width: 100%;
 }
 
-/*End=================================================================index2.html page css=========================*/
+/*End=================================================================index.html page css=========================*/
 
 /*Start=================================================================About.html page css========================*/
 
